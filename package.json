@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Express Hello World",
   "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
   "repository": "",
   "author": "",
   "license": "MIT",
